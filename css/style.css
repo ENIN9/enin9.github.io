@@ -33,7 +33,7 @@ img{max-width:100%;}
 }
 body{
 	 font-family: 'bebasregular';
-	 background:#00B3E7;
+	 background:#D8D8D8;
 }
 /*---start-wrap----*/
 .wrap{
@@ -183,7 +183,7 @@ body{
 	-webkit-transition: 0.5s ease;
 }
 .copy-right p a:hover{
-	color:#000;	
+	color:#000;
 }
 /*----responsive-design-----*/
 @media only screen and (max-width: 1366px) and (min-width: 1280px) {
