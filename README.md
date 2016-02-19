@@ -19,6 +19,7 @@ Choisi: http://html-color-codes.info/
 #D8D8D8
 // bonne couleur en gris pour le background!
 
+#111 background black pas trop foncé
 
 
 
