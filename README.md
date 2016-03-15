@@ -1,29 +1,12 @@
 # enin9.github.io
 
-18 fevrier 2016 
+15 mars 2016 
 
 notes a moi meme :
 
 Dans style.css
-Change la couleur du background dans body
-body{
-	 font-family: 'bebasregular';
-	 background:#00B3E7;
-}
-Ligne 36
-Pour quell code de couleur?
+Change path for ExempleFini (une fois le brevet déposé)
 
-Choisi: http://html-color-codes.info/
+ou réussir à ajouter les éléments de text
 
-
-#D8D8D8
-// bonne couleur en gris pour le background!
-
-#111 background black pas trop foncé
-
-
-
-ligne 8 js/script.js
-// pour le countdown et changer la date
-
-*** le countdown a fonctionne mais pas le changement de couleur de background*** gotta fix this
++ enlever marge de gauche (aucun espace apres la ligne horizontale bleue)
