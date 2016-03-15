@@ -12,5 +12,7 @@ ou réussir à ajouter les éléments de text dans HTLM;
    <textarea rows="4" cols="50">
    At w3schools.com you will learn how to make a website. We offer free tutorials in all web development technologies. 
    </textarea>
+   
+   align="right" width="48" height="48" 
 
 + enlever marge de gauche (aucun espace apres la ligne horizontale bleue)
