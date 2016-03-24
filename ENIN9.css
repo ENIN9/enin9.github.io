@@ -1,0 +1,88 @@
+    body {
+      background-image:url("enin9.github.io/ENIN9.COM/SiteWeb_1200px.jpg");
+      background-color:white;
+      background-position:top;
+      background-repeat:repeat-x;
+      width:auto;
+}
+  #bluetext1 {
+    text-align:center;
+    position:relative;
+    top: 355px;
+    font-family: "Helvetica";
+    color:white;
+    font-weight: normal;
+  }
+  #bluetext2 {
+    text-align:center;
+    position: relative;
+    top: 335px;
+    font-family: "Helvetica";
+    color:white;
+    font-weight: normal;
+  }
+  #middletext1 {
+    text-align:center;
+    position: relative;
+    top:360px;
+    font-family: "Helvetica";
+    font-weight: bold;
+    font-size:14pt;
+  }
+  #middletext2 {
+    text-align:center;
+    position: relative;
+    top:345px;
+    font-family: "Helvetica";
+    font-weight: bold;
+    font-size:14pt;
+  }
+  #bottomtext {
+    text-align:center;
+    position: relative;
+    top: 350px;
+    left:9%;
+    font-family: "Helvetica";
+    font-weight:normal;
+    font-size:16px;
+  }
+#toptext {
+  position:relative;
+  bottom:421px;
+  left:879px;
+  font-family: "Helvetica";
+  font-weight: normal;
+  font-size:12px;
+}
+#toptext2 {
+  position:relative;
+  bottom:447px;
+  left:935px;
+  font-family: "Helvetica";
+  font-weight: normal;
+  font-size:12px;
+}
+#toptext3 {
+  position:relative;
+  bottom:473px;
+  left:1029px;
+  font-family: "Helvetica";
+  font-weight: normal;
+  font-size:12px;
+}
+#toptext4 {
+  position:relative;
+  bottom:499px;
+  left:1164px;
+  font-family: "Helvetica";
+  font-weight: normal;
+  font-size:12px;
+}
+#toptextcopyright {
+  position:relative;
+  bottom:525px;
+  left:640px;
+  font-family: "Helvetica";
+  font-weight: normal;
+  font-size:12px;
+}
