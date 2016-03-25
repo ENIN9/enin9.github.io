@@ -1,10 +1,11 @@
 body {
-      background-image:url("enin9.github.io/ENIN9.COM/SiteWeb_1200px.jpg");
+      background-image:url("enin9.github.io/SiteWeb_1200px_short.jpg");
       background-color:white;
       background-position:top;
       background-repeat:no-repeat;
       width:auto;
       overflow-x:hidden;
+
 }
   #bluetext1 {
     text-align:center;
@@ -39,10 +40,7 @@ body {
     font-size:14pt;
   }
   #bottomtext {
-    text-align:center;
-    position: absolute;
-    top: 550px;
-    left:43%;
+    text-align:left;
     font-family: "Helvetica";
     font-weight:normal;
     font-size:16px;
@@ -51,13 +49,14 @@ header{
   background:white;
   width:1920px;
   height:40px;
-  margin:0 auto;
   position:fixed;
   top:-6px;
   overflow:hidden;
   font-family: "Helvetica";
   font-weight: normal;
   font-size:14px;
+  left: 50%;
+  margin-left: -470px;
 }
 .toptext {
   float:left;
@@ -73,4 +72,23 @@ header{
 .copyright {
     margin-left:90px;
     margin-right:160px;
+}
+.bottom {
+  text-align:center;
+  width:100%;
+  position:relative;
+  left: 50%;
+
+}
+
+.bottom ul li {
+  list-style:none;
+  margin-left:-110px;
+  position:absolute;
+  top:348px;
+}
+.bottomimage{
+  position:absolute;
+  top:340px;
+  left:-315px;
 }
