@@ -11,7 +11,7 @@ body {
     text-align:center;
     position:relative;
     top: 355px;
-    font-family: "Helvetica";
+    font-family: "Arial";
     color:white;
     font-weight: normal;
   }
@@ -19,7 +19,7 @@ body {
     text-align:center;
     position: relative;
     top: 335px;
-    font-family: "Helvetica";
+    font-family: "Arial";
     color:white;
     font-weight: normal;
   }
@@ -27,7 +27,7 @@ body {
     text-align:center;
     position: relative;
     top:360px;
-    font-family: "Helvetica";
+    font-family: "Arial";
     font-weight: bold;
     font-size:14pt;
   }
@@ -35,13 +35,13 @@ body {
     text-align:center;
     position: relative;
     top:345px;
-    font-family: "Helvetica";
+    font-family: "Arial";
     font-weight: bold;
     font-size:14pt;
   }
   #bottomtext {
     text-align:left;
-    font-family: "Helvetica";
+    font-family: "Arial";
     font-weight:normal;
     font-size:16px;
   }
@@ -52,7 +52,7 @@ header{
   position:fixed;
   top:-6px;
   overflow:hidden;
-  font-family: "Helvetica";
+  font-family: "Arial";
   font-weight: normal;
   font-size:14px;
   left: 50%;
