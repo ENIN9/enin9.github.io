@@ -221,7 +221,7 @@ header{
 .emailimg {
   position:absolute;
   top:455px;
-  left:-250px;
+  left:-150px;
 }
 #steph{
   text-align:left;
@@ -229,7 +229,7 @@ header{
   font-weight:normal;
   font-size:16px;
   list-style:none;
-  margin-left:-140px;
+  margin-left:-50px;
   position:absolute;
   top:450px;
 }
@@ -239,7 +239,7 @@ header{
   font-weight:normal;
   font-size:16px;
   list-style:none;
-  margin-left:-140px;
+  margin-left:-50px;
   position:absolute;
   top:530px;
 }
