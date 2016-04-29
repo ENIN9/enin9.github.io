@@ -5,7 +5,22 @@ body {
       background-repeat:no-repeat;
       width:auto;
       overflow-x:hidden;
-
+}
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  color: darkblue;
+  text-decoration: none;
+}
+a:active {
+  color: red;
+  text-decoration: none;
 }
   #bluetext1 {
     text-align:center;
@@ -91,4 +106,140 @@ header{
   position:absolute;
   top:340px;
   left:-315px;
+}
+
+
+/* CSS de la page Device */
+.bottomdevice{
+  text-align:center;
+  width:100%;
+  position:relative;
+  left: 50%;
+}
+.device1{
+  position:absolute;
+  top:450px;
+  left:-280px;
+}
+.device2{
+  position:absolute;
+  top:590px;
+  left:200px;
+}
+.device3{
+  position:absolute;
+  top:730px;
+  left:-280px;
+}
+.device4{
+  position:absolute;
+  top:870px;
+  left:200px;
+}
+#deviceblue {
+  text-align:center;
+  position:relative;
+  top: 360px;
+  font-family: "Arial";
+  color:white;
+  font-weight: normal;
+  font-size: 38px;
+}
+#devicetitle {
+  text-align:center;
+  position: relative;
+  top:410px;
+  font-family: "Arial";
+  font-weight: bold;
+  font-size:14pt;
+}
+#device1{
+  text-align:left;
+  font-family: "Arial";
+  font-weight:normal;
+  font-size:16px;
+  list-style:none;
+  margin-left:-160px;
+  position:absolute;
+  top:450px;
+}
+#device2{
+  text-align:right;
+  font-family: "Arial";
+  font-weight:normal;
+  font-size:16px;
+  list-style:none;
+  margin-left:-210px;
+  position:absolute;
+  top:590px;
+}
+#device3{
+  text-align:left;
+  font-family: "Arial";
+  font-weight:normal;
+  font-size:16px;
+  list-style:none;
+  margin-left:-160px;
+  position:absolute;
+  top:730px;
+}
+#device4{
+  text-align:right;
+  font-family: "Arial";
+  font-weight:normal;
+  font-size:16px;
+  list-style:none;
+  margin-left:-210px;
+  position:absolute;
+  top:870px;
+}
+
+/* CSS pour la page de contact */
+#contactblue {
+  text-align:center;
+  position:relative;
+  top: 360px;
+  font-family: "Arial";
+  color:white;
+  font-weight: normal;
+  font-size: 38px;
+}
+#contacttitle {
+  text-align:center;
+  position: relative;
+  top:410px;
+  font-family: "Arial";
+  font-weight: bold;
+  font-size:14pt;
+}
+.email {
+  text-align:center;
+  width:100%;
+  position:relative;
+  left: 50%;
+}
+.emailimg {
+  position:absolute;
+  top:455px;
+  left:-250px;
+}
+#steph{
+  text-align:left;
+  font-family: "Arial";
+  font-weight:normal;
+  font-size:16px;
+  list-style:none;
+  margin-left:-140px;
+  position:absolute;
+  top:450px;
+}
+#andre{
+  text-align:left;
+  font-family: "Arial";
+  font-weight:normal;
+  font-size:16px;
+  list-style:none;
+  margin-left:-140px;
+  position:absolute;
+  top:530px;
 }
